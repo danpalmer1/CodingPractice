@@ -1,8 +1,9 @@
+package Problems;
 public class SearchInput {
-    int[] nums = {1, 3, 5, 6};
-    int target1 = 5;
-    int target2 = 2;
-    int target3 = 7;
+    public int[] nums = {1, 3, 5, 6};
+    public int target1 = 5;
+    public int target2 = 2;
+    public int target3 = 7;
     int[] nums2 = {1};
     int target4 = 1;
 

@@ -1,3 +1,5 @@
+import Problems.SearchInput;
+
 public class Driver {
     public static void main(String[] args) {
         SearchInput si = new SearchInput();
